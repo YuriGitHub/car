@@ -27,7 +27,7 @@ test:
 
 production:
   <<: *default
-  database: postgressDB
-  username: yuri
-  password: 553191
+  database: d1i8pi68i9i2hv
+  username: squxgnnfdwjmte
+  password: S3fD4-vOiKUBZ6SA4Fk6I6hXPm
 
