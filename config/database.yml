@@ -11,18 +11,18 @@ default: &default
 
 development:
   <<: *default
-   database: d1i8pi68i9i2hv
-    username: squxgnnfdwjmte
-    password: S3fD4-vOiKUBZ6SA4Fk6I6hXPm
+  database: d1i8pi68i9i2hv
+  username: squxgnnfdwjmte
+  password: S3fD4-vOiKUBZ6SA4Fk6I6hXPm
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-   database: d1i8pi68i9i2hv
-    username: squxgnnfdwjmte
-    password: S3fD4-vOiKUBZ6SA4Fk6I6hXPm
+  database: d1i8pi68i9i2hv
+  username: squxgnnfdwjmte
+  password: S3fD4-vOiKUBZ6SA4Fk6I6hXPm
 
 
 production:
