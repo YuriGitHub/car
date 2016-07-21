@@ -5,6 +5,6 @@ class CreateImages < ActiveRecord::Migration[5.0]
       t.timestamps
     end
     add_reference :images, :product, index: true
-    add_money :products, :price
+    add_monetize :products, :price
   end
 end
