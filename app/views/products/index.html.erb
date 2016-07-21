@@ -1,0 +1,11 @@
+<% @product.each do |p| %>
+ <h3> <%= p.name %>
+    <%= p.price.format %>
+ </h3><br>
+<% end %>
+
+<%= form_tag '/products', method: 'get' do %>
+<%= text_field_tag :start_year %>
+    <%= text_field_tag :end_year %>
+
+<% end %>
