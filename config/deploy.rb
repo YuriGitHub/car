@@ -10,6 +10,10 @@ set :repo_url, 'git@github.com:YuriGitHub/car.git'
 # Default deploy_to directory is /var/www/my_app_name
 set :deploy_to, '/home/Yuri/r_projects'
 
+server 'localhost', port: 2222, roles: [:web, :app, :db], primary: true
+
+
+
 # Default value for :scm is :git
 # set :scm, :git
 

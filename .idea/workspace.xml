@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff41cd7-0f47-41e2-9047-d8e486c5c107" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/nginx.conf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/nginx.conf" afterPath="$PROJECT_DIR$/config/nginx.conf" />
     </list>
     <ignored path="car.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,7 +106,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="deploy.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/deploy.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -116,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -468,12 +468,12 @@
       <workItem from="1469093353506" duration="9000" />
       <workItem from="1469093381660" duration="3244000" />
       <workItem from="1469102102477" duration="1450000" />
-      <workItem from="1469171890464" duration="2268000" />
+      <workItem from="1469171890464" duration="2438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30872000" />
+    <option name="totallyTimeSpent" value="31042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -890,18 +890,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
+    <entry file="file://$PROJECT_DIR$/config/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/nginx.conf">
+    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding />
         </state>
       </provider>
